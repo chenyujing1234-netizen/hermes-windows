@@ -1,0 +1,4 @@
+provider: github
+owner: wanglongjun174116
+repo: hermes-windos
+updaterCacheDirName: hermes-windos-updater
